@@ -109,7 +109,7 @@
 - Established the distinction between project vision, roadmap, and current release to prevent uncontrolled scope expansion.
 - Defined community impact and meaningful language accessibility as core measures of long-term success.
 
-## [08/08/2026 — 22:00 PKT]
+## [08/08/2026 — 22:12 PKT]
 
 ### Added
 - Added `docs/00-foundation/002-mission.md`.
@@ -124,3 +124,24 @@
 - Defined the mission for Sindhi language technology resources and ecosystem development.
 - Established sustainable infrastructure and development as requirements for long-term community service.
 - Added a feature decision filter and mission success criteria to guide future development.
+
+## [08/08/2026 — 22:29 PKT]
+
+### Added
+- Added `docs/00-foundation/003-core-principles.md`.
+- Established the project's foundational engineering and product principles.
+- Defined community-first, typing-first, zero-interruption, offline-first, and performance-first principles.
+- Established device-aware intelligence and Skill Pack-based capability delivery.
+- Defined multilingual design for Sindhi, Urdu, and English.
+- Established user-controlled and responsible AI principles.
+- Defined privacy-by-design and security-by-design requirements.
+- Reinforced the ad-free product experience.
+- Established familiarity with the selected Sindhi keyboard layout before unnecessary interface innovation.
+- Defined modular architecture and stable component interfaces.
+- Established quality, accessibility, maintainability, and documentation principles.
+- Defined real-world utility and high-risk-domain safeguards.
+- Established backward compatibility and protection of user-created text.
+- Defined evidence-based engineering and real-device testing principles.
+- Established sustainable engineering and responsible community participation.
+- Defined sustainability without intrusive monetization or exploitation.
+- Established humility, continuous learning, and long-term mission alignment as foundational principles.
