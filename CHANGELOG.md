@@ -29,3 +29,15 @@
 - ### Changed
 - Corrected language terminology in `SUPPORT.md` from `🇬🇧 English` to `🌐 English`.
 - Clarified that the project currently defines English as a supported language without restricting it to a specific regional variant.
+
+### Added
+- Added comprehensive `GOVERNANCE.md`.
+- Defined the current private, owner-controlled governance model.
+- Defined project ownership and future maintainer responsibilities.
+- Established governance principles for community benefit, reliability, offline-first operation, privacy, security, performance, and an ad-free experience.
+- Defined governance for Skill Packs, AI capabilities, domain-specific AI, and the future Sindhi SDK.
+- Established architectural decision and ADR practices.
+- Defined repository access, contribution, licensing, dependency, financial, and open-core governance principles.
+- Defined future community governance and contribution processes.
+- Established emergency decision, security authority, release authority, and conflict-resolution principles.
+- Defined the long-term goal of evolving governance while preserving the project's mission and principles.
