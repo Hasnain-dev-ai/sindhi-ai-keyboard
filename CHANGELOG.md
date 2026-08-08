@@ -61,3 +61,17 @@
 - Added funding and privacy safeguards prohibiting monetization through keystroke data, private conversations, personal information, or unauthorized tracking.
 - Defined fair, transparent, accessibility-conscious pricing principles.
 - Documented the long-term funding path from private development toward the Sindhi AI Platform and Sindhi SDK ecosystem.
+
+### Added
+- Added comprehensive `CONTRIBUTING.md`.
+- Defined contribution principles and project expectations.
+- Documented keyboard-first, offline-first, ad-free, privacy, security, and performance requirements for contributions.
+- Defined Sindhi, Urdu, and English language contribution standards.
+- Documented keyboard-layout compatibility requirements based on established Sindhi typing conventions.
+- Added contribution guidance for Skill Packs, AI, OCR, voice, translation, domain-specific AI, and the future Sindhi SDK.
+- Added coding, dependency, licensing, dataset, secrets, documentation, ADR, testing, performance, accessibility, and internationalization guidelines.
+- Added branch naming and commit message conventions.
+- Added pull request, review, CI, issue, and testing guidance.
+- Added cloud-cost and sustainability considerations.
+- Established the requirement to update `CHANGELOG.md` for significant project changes.
+- Connected contribution practices with `CODE_OF_CONDUCT.md`, `GOVERNANCE.md`, `SECURITY.md`, `FUNDING.md`, and `ROADMAP.md`.
