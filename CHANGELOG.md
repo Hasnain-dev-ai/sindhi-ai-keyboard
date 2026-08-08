@@ -108,3 +108,19 @@
 - Defined the Sindhi AI Platform as the long-term ecosystem destination.
 - Established the distinction between project vision, roadmap, and current release to prevent uncontrolled scope expansion.
 - Defined community impact and meaningful language accessibility as core measures of long-term success.
+
+## [08/08/2026 — 22:00 PKT]
+
+### Added
+- Added `docs/00-foundation/002-mission.md`.
+- Defined the project's mission and practical purpose.
+- Established reliability, zero-interruption typing, offline-first operation, privacy, security, accessibility, and ad-free usage as core mission priorities.
+- Defined the Sindhi, Urdu, and English language mission.
+- Established the mission for AI-assisted writing, prediction, translation, OCR, voice, and visual capabilities.
+- Defined community-focused mission areas including agriculture, education, healthcare, government, business, legal, literary, and cultural use cases.
+- Established the Skill Pack ecosystem as a mechanism for delivering domain-specific capabilities.
+- Defined device-aware and resource-conscious functionality.
+- Established the long-term mission for the Sindhi SDK, developer ecosystem, and Sindhi AI Platform.
+- Defined the mission for Sindhi language technology resources and ecosystem development.
+- Established sustainable infrastructure and development as requirements for long-term community service.
+- Added a feature decision filter and mission success criteria to guide future development.
