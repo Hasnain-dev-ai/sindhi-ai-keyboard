@@ -91,3 +91,20 @@
 - Documented sustainability, community responsibility, language preservation, modularity, quality, and governance principles.
 - Established non-negotiable project principles and a priority hierarchy for technical and product decisions.
 - Added constitutional metadata including prefix, filename, title, path, version, project, organization, creation date, and timezone.
+
+## [08/08/2026 — 22:00 PKT]
+
+### Added
+- Added `docs/00-foundation/001-vision.md`.
+- Defined the long-term vision of Sindhi AI Keyboard as the foundation of a broader Sindhi AI ecosystem.
+- Established the progression from keyboard → intelligent keyboard → Skill Packs → Sindhi language intelligence → Sindhi SDK → Sindhi AI Platform.
+- Defined the unified Sindhi, Urdu, and English language experience.
+- Expanded the vision for offline-first operation, zero-interruption typing, privacy, security, performance, and ad-free usage.
+- Defined long-term AI, OCR, translation, voice, vision, and context-aware assistance capabilities.
+- Established domain-specific vision areas including agriculture, education, healthcare, government, legal, business, literature, and research.
+- Defined device-aware intelligence and resource-conscious feature delivery.
+- Expanded the vision for Sindhi language preservation and digital language technology.
+- Defined the future Sindhi SDK and developer ecosystem.
+- Defined the Sindhi AI Platform as the long-term ecosystem destination.
+- Established the distinction between project vision, roadmap, and current release to prevent uncontrolled scope expansion.
+- Defined community impact and meaningful language accessibility as core measures of long-term success.
