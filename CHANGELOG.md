@@ -75,3 +75,19 @@
 - Added cloud-cost and sustainability considerations.
 - Established the requirement to update `CHANGELOG.md` for significant project changes.
 - Connected contribution practices with `CODE_OF_CONDUCT.md`, `GOVERNANCE.md`, `SECURITY.md`, `FUNDING.md`, and `ROADMAP.md`.
+
+## [08/08/2026 — 21:56 PKT]
+
+### Added
+- Added `docs/00-foundation/000-project-constitution.md`.
+- Established the foundational constitution of Sindhi AI Keyboard.
+- Defined the project's purpose, mission, long-term vision, and community-first identity.
+- Established keyboard-first, offline-first, ad-free, privacy, security, performance, and accessibility principles.
+- Defined the importance of established Sindhi keyboard-layout compatibility.
+- Established Skill Packs and device-aware capability principles.
+- Defined the long-term role of AI, OCR, translation, voice, vision, and domain-specific capabilities.
+- Established the future Sindhi SDK as a strategic ecosystem component.
+- Defined the Sindhi AI Platform as the long-term platform vision.
+- Documented sustainability, community responsibility, language preservation, modularity, quality, and governance principles.
+- Established non-negotiable project principles and a priority hierarchy for technical and product decisions.
+- Added constitutional metadata including prefix, filename, title, path, version, project, organization, creation date, and timezone.
