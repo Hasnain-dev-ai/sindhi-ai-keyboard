@@ -162,3 +162,19 @@
 - Documented the Windows-style Sindhi keyboard layout as a familiarity-preserving foundation for the mobile experience.
 - Established principles for future premium features, expressive features, and ecosystem expansion.
 - Added brand protection and future trademark/domain/app-store considerations.
+
+## [08/08/2026 — 22:38 PKT]
+
+### Added
+- Added `docs/00-foundation/005-governance.md`.
+- Established the governance framework for Sindhi AI Keyboard.
+- Defined decision authority, governing-document hierarchy, and change management.
+- Established Architecture Decision Records as the mechanism for documenting significant technical decisions.
+- Defined emergency decision, security, privacy, offline, keyboard stability, and release governance.
+- Established governance for Skill Packs, devices, quality, AI models, language assets, dependencies, licensing, and third-party attribution.
+- Defined contribution, maintainer, code ownership, access-control, and review responsibilities.
+- Established incident-management and communication principles.
+- Defined governance requirements for high-impact domains including healthcare, agriculture, legal, finance, and government.
+- Established financial sustainability and ad-free experience governance.
+- Defined long-term stewardship, succession, disaster-recovery, and governance-evolution considerations.
+- Established non-negotiable principles protecting community benefit, keyboard reliability, offline-friendly operation, privacy, security, responsible AI, accessibility, and sustainability.
