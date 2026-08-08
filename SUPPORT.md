@@ -672,4 +672,3 @@ The project will continue to prioritize **trust, usefulness, accessibility, and 
 **Sindhi AI Platform — Solangi Group of Companies (SGoC)**
 
 </p>
-```
