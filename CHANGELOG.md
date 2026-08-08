@@ -145,3 +145,20 @@
 - Established sustainable engineering and responsible community participation.
 - Defined sustainability without intrusive monetization or exploitation.
 - Established humility, continuous learning, and long-term mission alignment as foundational principles.
+
+## [08/08/2026 — 22:34 PKT]
+
+### Added
+- Added `docs/00-foundation/004-brand-architecture.md`.
+- Defined the official relationship between SGoC, Sindhi AI Keyboard, Sindhi SDK, and the future Sindhi AI Platform.
+- Established Sindhi AI Keyboard as the primary product identity.
+- Established Solangi Group of Companies (SGoC) as the broader organizational identity.
+- Defined the future Sindhi SDK as the developer-facing language technology layer.
+- Defined Sindhi AI Platform as the future broader ecosystem identity.
+- Established Skill Packs as domain-specific product extensions.
+- Defined brand positioning, naming principles, product hierarchy, and future expansion rules.
+- Documented the relationship between product architecture and brand architecture.
+- Established community, privacy, offline-friendly, accessibility, and ad-free considerations as important brand attributes.
+- Documented the Windows-style Sindhi keyboard layout as a familiarity-preserving foundation for the mobile experience.
+- Established principles for future premium features, expressive features, and ecosystem expansion.
+- Added brand protection and future trademark/domain/app-store considerations.
