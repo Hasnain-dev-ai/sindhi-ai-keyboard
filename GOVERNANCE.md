@@ -764,4 +764,3 @@ Governance exists to protect the purpose of the project:
 **Sindhi AI Platform — Solangi Group of Companies (SGoC)**
 
 </p>
-```
