@@ -980,4 +980,3 @@ Sindhi SDK & Ecosystem
 **Sindhi AI Platform — Solangi Group of Companies (SGoC)**
 
 </p>
-```
