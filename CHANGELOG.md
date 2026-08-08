@@ -41,3 +41,13 @@
 - Defined future community governance and contribution processes.
 - Established emergency decision, security authority, release authority, and conflict-resolution principles.
 - Defined the long-term goal of evolving governance while preserving the project's mission and principles.
+
+### Added
+- Added comprehensive `CODE_OF_CONDUCT.md`.
+- Defined respectful and constructive participation standards.
+- Added protections against harassment, threats, privacy violations, unauthorized access, and malicious contributions.
+- Established special privacy and security responsibilities for keyboard-related development.
+- Defined expectations for offline-first, ad-free, responsible AI, Skill Pack, testing, documentation, licensing, and language-resource contributions.
+- Added guidance for beginner contributors, community discussions, security reporting, enforcement, and retaliation protection.
+- Defined the Code of Conduct's relationship with the project's current private-development phase and future public community.
+- Established requirements for documenting future Code of Conduct changes in `CHANGELOG.md`.
