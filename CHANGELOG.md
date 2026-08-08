@@ -51,3 +51,13 @@
 - Added guidance for beginner contributors, community discussions, security reporting, enforcement, and retaliation protection.
 - Defined the Code of Conduct's relationship with the project's current private-development phase and future public community.
 - Established requirements for documenting future Code of Conduct changes in `CHANGELOG.md`.
+
+### Added
+- Added comprehensive `FUNDING.md`.
+- Defined the project's ad-free sustainability principles.
+- Documented potential funding sources including premium services, enterprise services, institutional partnerships, community support, sponsorships, cloud services, and the future Sindhi SDK.
+- Defined the intended free core experience and sustainable premium model.
+- Established funding priorities around security, reliability, offline capability, privacy, infrastructure, AI, language resources, and SDK development.
+- Added funding and privacy safeguards prohibiting monetization through keystroke data, private conversations, personal information, or unauthorized tracking.
+- Defined fair, transparent, accessibility-conscious pricing principles.
+- Documented the long-term funding path from private development toward the Sindhi AI Platform and Sindhi SDK ecosystem.
