@@ -252,3 +252,21 @@
 - Documented the product priority hierarchy.
 - Documented the long-term product evolution direction.
 - Established maintenance requirements for the Product index.
+- 
+## [09/08/2026 — 23:36 PKT]
+
+### Added
+- Added `docs/01-product/009-product-overview.md`.
+- Established Chapter 009 as the first chapter of Part 01 — Product.
+- Defined the high-level identity, purpose, scope, and experience of Sindhi AI Keyboard.
+- Documented the Windows-layout-as-standard mobile keyboard principle.
+- Documented Sindhi, Urdu, and English as core supported languages.
+- Established strict Skill Pack and device-aware product principles.
+- Defined zero-interruption typing and offline-first behavior as primary requirements.
+- Documented on-device, cloud, and hybrid intelligence directions.
+- Documented AI writing, suggestions, OCR, agriculture, multi-domain intelligence, translation, voice, clipboard, and custom expression capabilities.
+- Documented the ad-free product principle.
+- Established privacy-by-design product requirements.
+- Documented the future Sindhi SDK and Sindhi AI Platform direction.
+- Defined product priorities and feature-introduction criteria.
+- Established the high-level product evolution path and product success criteria.
