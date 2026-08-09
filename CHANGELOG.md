@@ -224,3 +224,19 @@
 - Added sustainability, distribution, marketplace, community, research, security, and documentation roadmap considerations.
 - Established a feature decision framework and scope-control principle for future development.
 - Defined long-term success in terms of community benefit, accessibility, language technology, developer adoption, and ecosystem sustainability.
+
+## [09/08/2026 — 23:11 PKT]
+
+### Added
+- Added `docs/00-foundation/008-glossary.md`.
+- Established the official project terminology reference.
+- Defined terminology for the Sindhi AI Keyboard, SGoC, Sindhi SDK, and future Sindhi AI Platform.
+- Defined keyboard, language, AI, OCR, voice, translation, architecture, security, privacy, cloud, device, performance, licensing, SDK, documentation, testing, governance, and community terminology.
+- Formalized the project's Skill Pack terminology and pack-based architecture vocabulary.
+- Defined Core Pack, Language Pack, Domain Pack, Pack Manager, Pack Recommendation, Unified Configuration, and Device-Aware Packs.
+- Added terminology for agriculture, education, government, healthcare, legal, business, finance, literature, research, technology, commerce, and media domain intelligence.
+- Defined Offline-First, Graceful Degradation, Zero-Interruption Principle, Typing Latency, and Smooth Typing.
+- Defined open-core, proprietary, premium, sustainability, community support, CLA, DCO, attribution, and third-party licensing terminology.
+- Defined future Sindhi SDK and Developer Ecosystem terminology.
+- Added official naming conventions and preferred terminology.
+- Established glossary maintenance rules for future project development.
