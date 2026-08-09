@@ -270,3 +270,16 @@
 - Documented the future Sindhi SDK and Sindhi AI Platform direction.
 - Defined product priorities and feature-introduction criteria.
 - Established the high-level product evolution path and product success criteria.
+
+## [09/08/2026 — 23:42 PKT]
+
+### Added
+- Added `docs/01-product/010-product-requirements.md`.
+- Defined functional and non-functional product requirements.
+- Formalized core keyboard, multilingual, Skill Pack, device-aware, performance, and offline requirements.
+- Defined AI, OCR, voice, translation, writing assistance, clipboard, and expression requirements.
+- Formalized the ad-free and privacy requirements.
+- Added accessibility, UX, notification, update, sustainability, SDK, and future platform requirements.
+- Established MUST / SHOULD / MAY / FUTURE requirement priorities.
+- Established product requirement validation principles.
+- Reinforced the core product rule that the keyboard remains reliable before advanced AI functionality.
