@@ -201,3 +201,26 @@
 - Defined security, dependency, third-party licensing, update, installation, and resource-management principles.
 - Established decision criteria for determining whether future capabilities belong in the core or advanced layer.
 - Documented the long-term path from keyboard to language intelligence, Skill Packs, advanced AI, Sindhi SDK, and Sindhi AI Platform.
+
+## [09/08/2026 — 22:52 PKT]
+
+### Added
+- Added `docs/00-foundation/007-roadmap.md`.
+- Established the strategic roadmap for Sindhi AI Keyboard.
+- Defined milestones M0–M12 from project foundation through the future Sindhi AI Platform.
+- Established the first stable keyboard release as the primary early product objective.
+- Defined the progression from reliable keyboard → language intelligence → Skill Packs → advanced AI → platform infrastructure → Sindhi SDK → Sindhi AI Platform.
+- Documented the Windows-layout-based mobile keyboard direction.
+- Defined Sindhi, Urdu, and English as the core language experience.
+- Established offline-first, poor-network, low-resource-device, and uninterrupted-typing requirements throughout the roadmap.
+- Formalized the strict pack-based architecture and device-aware resource strategy.
+- Added planned AI, OCR, voice, translation, domain intelligence, and advanced writing capabilities.
+- Added agriculture, education, government, healthcare, legal, business, finance, literature, research, technology, commerce, and media as potential domain expansion areas.
+- Established the future Sindhi SDK as a major roadmap milestone.
+- Added the long-term Sindhi AI Platform as the final strategic expansion stage.
+- Defined MVP boundaries to prevent the complete long-term vision from becoming a launch requirement.
+- Added quality gates covering performance, reliability, privacy, security, accessibility, localization, and real-world device conditions.
+- Added poor-network and low-resource device testing requirements.
+- Added sustainability, distribution, marketplace, community, research, security, and documentation roadmap considerations.
+- Established a feature decision framework and scope-control principle for future development.
+- Defined long-term success in terms of community benefit, accessibility, language technology, developer adoption, and ecosystem sustainability.
