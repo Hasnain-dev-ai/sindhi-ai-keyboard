@@ -178,3 +178,26 @@
 - Established financial sustainability and ad-free experience governance.
 - Defined long-term stewardship, succession, disaster-recovery, and governance-evolution considerations.
 - Established non-negotiable principles protecting community benefit, keyboard reliability, offline-friendly operation, privacy, security, responsible AI, accessibility, and sustainability.
+
+## [09/08/2026 — 22:47 PKT]
+
+### Added
+- Added `docs/00-foundation/006-open-core-model.md`.
+- Formalized the Open-Core strategy for Sindhi AI Keyboard.
+- Defined the complete core keyboard as the foundation of the product.
+- Established advanced AI and service-supported capabilities as the sustainable expansion layer.
+- Documented offline-first and uninterrupted-typing requirements.
+- Formalized the strict Skill Pack architecture and device-aware pack recommendations.
+- Defined core, advanced, on-device, cloud, entitlement, and graceful-degradation boundaries.
+- Documented modular engine interfaces for prediction, OCR, translation, writing assistance, speech, and vision capabilities.
+- Established resource-aware model loading and pack management principles.
+- Documented licensing boundaries between project code, third-party components, datasets, models, language assets, and advanced components.
+- Established the future Sindhi SDK as an important part of the long-term architecture.
+- Connected the Open-Core model to the future Sindhi AI Platform vision.
+- Defined domain-specific Skill Pack expansion across agriculture, education, healthcare, government, legal, business, finance, literature, research, media, commerce, technology, and future community needs.
+- Documented enterprise and institutional expansion opportunities.
+- Established sustainability considerations for cloud AI, infrastructure, API usage, and variable operating costs.
+- Explicitly rejected artificial crippling, intrusive monetization, typing interruptions, and advertisements as mechanisms for premium conversion.
+- Defined security, dependency, third-party licensing, update, installation, and resource-management principles.
+- Established decision criteria for determining whether future capabilities belong in the core or advanced layer.
+- Documented the long-term path from keyboard to language intelligence, Skill Packs, advanced AI, Sindhi SDK, and Sindhi AI Platform.
